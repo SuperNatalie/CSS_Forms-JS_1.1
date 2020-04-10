@@ -1,0 +1,7 @@
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 40vw;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
